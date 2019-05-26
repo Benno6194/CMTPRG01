@@ -43,7 +43,7 @@ class Jibby {
 
 
     private onPet():void {
-        console.log("you clicked on jibby!")
+        console.log("petting jibby!")
         this.div.style.backgroundImage = "url('images/happy.png')"
     }
 
